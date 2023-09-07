@@ -14,7 +14,7 @@ https://github.com/hilalkrglmz/bootstrap-udemig-online-learning-responsive-websi
     </header>
     <div class="container">
         <h2>About Project</h2>
-           <p>It is a online learning website example. It contains some website design effects like glass effect, dark/light mode, bubble effect and color selecting. This website model was made by using css, html, javascript and bootstrap</p>
+           <p>It is an online learning website example. It contains some website design effects like glass effect, dark/light mode, bubble effect and color selecting. This website model was made by using css, html, javascript and bootstrap</p>
             <ul>
                 <li>HTML</li>
                 <li>CSS</li>
